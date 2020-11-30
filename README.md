@@ -4,8 +4,6 @@ My name is Chief. Also known as Stanislav Shevtsov.
 
 As you can see, I'm jack of all trades and one-man army.
 
-Right now, this account contains only pet-projects done for showcasing myself and for fun. 
-
 # Environment 
 [![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)](https://www.microsoft.com/en-us/windows)
 [![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)](https://www.apple.com/macos/)
