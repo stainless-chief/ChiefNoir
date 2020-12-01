@@ -21,7 +21,8 @@ As you can see, I'm jack of all trades and one-man army.
 [![Github Actions](https://img.shields.io/badge/CI-Github%20Actions-2088FF?style=flat&logo=Github-Actions&logoColor=white&color=611e23)](https://github.com/search?q=user%3AChiefNoir+github-actions)
 
 [![Angular](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=Angular&logoColor=white&color=611e23)](https://github.com/search?q=user%3AChiefNoir+angular)
-[![net](https://img.shields.io/badge/Framework-.Net%20Core-informational?style=flat&logo=dotnetcore&logoColor=white&color=611e23)](https://code.visualstudio.com/)
+[![net](https://img.shields.io/badge/Framework-.Net%20Core-informational?style=flat&logo=dotnetcore&logoColor=white&color=611e23)](https://github.com/search?q=user%3AChiefNoir+csharp)
+[![wpf](https://img.shields.io/badge/Framework-WPF-informational?style=flat&logo=wpf&logoColor=white&color=611e23)](https://github.com/search?q=user%3AChiefNoir+wpf)
 
 [![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=611e23)](https://github.com/search?q=user%3AChiefNoir+postgresql)
 [![Digital_Ocean](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=Digital_Ocean&logoColor=white&color=611e23)](https://cloud.digitalocean.com)
