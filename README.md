@@ -13,6 +13,8 @@ As you can see, I'm jack of all trades and one-man army.
 [![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=Visual%20Studio&logoColor=white&color=611e23)](https://code.visualstudio.com/)
 
 # Skills
+*Well, it is not everything that I know and can do. Just things you can find in my repositories.*
+
 [![C#](https://img.shields.io/badge/Language-C%23-informational?style=flat&logo=C-Sharp&logoColor=white&color=611e23)](https://github.com/search?q=user%3AChiefNoir+csharp)
 [![TypeScript](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=611e23)](https://github.com/search?q=user%3AChiefNoir+TypeScript)
 [![JavaScript](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=611e23)](https://github.com/search?q=user%3AChiefNoir+JavaScript)
