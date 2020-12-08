@@ -27,6 +27,7 @@ As you can see, I'm jack of all trades and one-man army.
 [![wpf](https://img.shields.io/badge/Framework-WPF-informational?labelColor=000000&logo=microsoft&logoColor=white&color=611e23)](https://github.com/search?q=user%3AChiefNoir+wpf)
 
 [![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?labelColor=000000&logo=postgresql&logoColor=white&color=611e23)](https://github.com/search?q=user%3AChiefNoir+postgresql)
+
 [![Digital_Ocean](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?labelColor=000000&logo=DigitalOcean&logoColor=white&color=611e23)](https://cloud.digitalocean.com)
 
 
