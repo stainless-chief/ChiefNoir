@@ -18,6 +18,8 @@ As you can see, I'm jack of all trades and one-man army.
 [![C#](https://img.shields.io/badge/Language-C%23-informational?labelColor=000000&logo=C-Sharp&logoColor=white&color=611e23)](https://github.com/search?q=user%3AChiefNoir+csharp)
 [![TypeScript](https://img.shields.io/badge/Language-TypeScript-informational?labelColor=000000&logo=TypeScript&logoColor=white&color=611e23)](https://github.com/search?q=user%3AChiefNoir+TypeScript)
 [![JavaScript](https://img.shields.io/badge/Language-JavaScript-informational?labelColor=000000&logo=JavaScript&logoColor=white&color=611e23)](https://github.com/search?q=user%3AChiefNoir+JavaScript)
+[![SCSS](https://img.shields.io/badge/Language-SCSS-informational?labelColor=000000&logo=sass&logoColor=white&color=611e23)](https://github.com/search?q=user%3AChiefNoir+JavaScript)
+
 [![Python](https://img.shields.io/badge/Language-Python-informational?labelColor=000000&logo=Python&logoColor=white&color=611e23)](https://github.com/search?q=user%3AChiefNoir+Python)
 
 [![Github Actions](https://img.shields.io/badge/CI-Github%20Actions-2088FF?labelColor=000000&logo=Github-Actions&logoColor=white&color=611e23)](https://github.com/search?q=user%3AChiefNoir+github-actions)
