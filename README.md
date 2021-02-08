@@ -36,8 +36,3 @@ As you can see, I'm jack of all trades and one-man army.
 # Meet me on the other site
 [![Linkedin](https://img.shields.io/badge/Chief-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stshevtsov/?locale=en_US)
 
-
-# Stats
-<a href="https://github.com/ChiefNoir/ChiefNoir">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiefnoir&langs_count=10&layout=compact" />
-</a>
