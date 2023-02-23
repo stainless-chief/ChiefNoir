@@ -24,7 +24,7 @@ As you can see, I'm jack of all trades and one-man army.
 
 [![Github Actions](https://img.shields.io/badge/CI-Github%20Actions-2088FF?labelColor=000000&logo=Github-Actions&logoColor=white&color=611e23)](https://github.com/search?q=user%3AChiefNoir+github-actions)
 
-[![Angular](https://img.shields.io/badge/Framework-Angular-informational?labelColor=000000&logo=Angular&logoColor=white&color=611e23)](https://github.com/search?q=user%3AChiefNoir+angular)
+[![React](https://img.shields.io/badge/Framework-React-informational?labelColor=000000&logo=React&logoColor=white&color=611e23)](https://github.com/search?q=user%3AChiefNoir+react)
 [![net](https://img.shields.io/badge/Framework-.Net%20Core-informational?labelColor=000000&logo=microsoft&logoColor=white&color=611e23)](https://github.com/search?q=user%3AChiefNoir+csharp)
 [![wpf](https://img.shields.io/badge/Framework-WPF-informational?labelColor=000000&logo=microsoft&logoColor=white&color=611e23)](https://github.com/search?q=user%3AChiefNoir+wpf)
 
